@@ -20,4 +20,4 @@ This folder contains
 
 _Please note:_ while GitHub is capable of visualizing `.csv`, `.geojson` and `.topojson` files, many of the files in this repository are too big for GitHub's system. These files can be viewed in a variety of other applications. 
 
-- __An HTML File__: `index.html` can either be downloaded and opened directly from the file on your computer, or viewed here:
+- __An HTML File__: `index.html` can either be downloaded and opened directly from the file on your computer, or viewed here: http://ncgmp09.github.io/examples/Arizona%20(1000k)/
