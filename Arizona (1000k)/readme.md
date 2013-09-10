@@ -16,7 +16,7 @@ This folder contains
     - __AllFeatures.topojson__ [_view_](AllFeatures.topojson) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/AllFeatures.topojson): This single file encapsulates all of the geographic data from the three GeoJSON files.
     - __ContactsAndFaults.topojson__ [_view_](ContactsAndFaults.topojson) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/ContactsAndFaults.topojson)
     - __MapUnitPolys.topojson__ [_view_](MapUnitPolys.topojson) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/MapUnitPolys.topojson)
-    - __DataSources.topojson__ [_view_](DataSources.topojson) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/DataSources.topojson)
+    - OtherLines.topojson__ [_view_](OtherLines.topojson) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/OtherLines.topojson)
 
 - __CSV Files__ for each of the following tables which contain information related to the above features:
     - __DataSources.csv__ [_view_](DataSources.csv) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/DataSources.csv)
