@@ -1,0 +1,3 @@
+# NCGMP09 Examples
+
+This repository contains examples of tables and FeatureClasses from geologic maps in NCGMP09 format. Strictly speaking, an NCGMP09 database should be provided as an ESRI Geodatabase. However, the format of the tables within that database can be represented in `.csv` and `.geojson` files to help us look quickly at the structure and get some better idea about how the format is being used.
