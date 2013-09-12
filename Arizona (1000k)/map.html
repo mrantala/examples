@@ -21,12 +21,8 @@
     <body>
         <div id="map"></div>
         <script>
-            var map = L.mapbox.map('map', 'rclark.map-swcvfr1t').setView([34,-112], 7);
-            L.mapbox.tileLayer('rclark.geo-map-az').addTo(map);
+            var map = L.mapbox.map('map', 'rclark.map-fn9jyny4');
             L.mapbox.tileLayer('rclark.map-t7ep1mrm').addTo(map);
-            var grid = L.mapbox.gridLayer('rclark.geo-map-az');
-            map.addLayer(grid);
-            map.addControl(L.mapbox.gridControl(grid));
         </script>
     </body>
 </html>
