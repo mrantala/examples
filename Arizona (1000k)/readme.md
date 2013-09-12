@@ -1,4 +1,4 @@
-# The Geologic Map of Arizona at 1:1,000,000-scale
+# The Geologic Map of Arizona
 
 ![Geologic Map of Arizona](http://a.tiles.mapbox.com/v3/rclark.geo-map-az/-111.8079,34.2345,7/600x650.png)
 
@@ -18,7 +18,7 @@ This site contains an up-to-date dump of the data behind the map. There are a va
 
 - __CSS Files__ which describe the symbology used to produce the map. These files follow [CartoCSS](http://www.mapbox.com/tilemill/docs/manual/carto/) syntax, which can be used directly in a handful of applications, or easily read and adapted to other environments.
     - __geolines.css__ [_view_](geolines.css) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/geolines.css) describes the symbology for contacts and faults
-    - __mapunitpolys.css__ [_view_](mapunitpolys.css) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/mapunitpolys.css)
+    - __mapunitpolys.css__ [_view_](mapunitpolys.css) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/mapunitpolys.css) describes the symbology for the various colored map units
     
 - __TopoJSON Files__ these compressed, topologically aware files can be viewed directly on GitHub
     - __AllFeatures.topojson__ [_view_](AllFeatures.topojson) | [_download_](http://ncgmp09.github.io/examples/Arizona-1000k/AllFeatures.topojson): This single file encapsulates all of the geographic data from the three GeoJSON files.
